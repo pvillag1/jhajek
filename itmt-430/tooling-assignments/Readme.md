@@ -36,7 +36,7 @@ git config --global user.name "<Your Name>"
 git config --global user.email "<youremail@example.com>"
 ```
 
-![PowerShell/SSH](pics/InstallGit.PNG "Install Git")
+![GitHub](pics/InstallGit.PNG "Install Git")
 
 ## Install VirtualBox
 
@@ -52,7 +52,7 @@ Try to use 6.0.x until the two applications are compatible.  Here are the direct
 
 Version 6.x works with Vagrant 2.2.6
 
-![PowerShell/SSH](pics/VirtualBox.PNG "VirtualBox Version")
+![VirtualBox](pics/VirtualBox.PNG "VirtualBox Version")
 
 ## Install Vagrant
 
@@ -64,7 +64,9 @@ After completing this tutorial take a screenshot of the output of the command ``
 
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
 
-Version 6.x works with Vagrant 2.2.6
+Version 6.x works with Vagrant 2.2.64
+
+![Vragrant](pics/Vagrant.PNG "Vagrant")
 
 ## Install Packer.io
 
