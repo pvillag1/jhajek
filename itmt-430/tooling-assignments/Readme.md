@@ -15,6 +15,8 @@ If you have a Windows 10 system, make sure that the native SSH client and [Power
 This link provides information on installing Bash 5.0 on MacOS and activating it to replace Bash 3.x
 [https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/ "Replace bash 3 with 5 MacOS")
 
+![PowerShell/SSH](pics/PowerShellSSH.png "PowerShell")
+
 ## Package Managers for Windows and MacOS
 
 Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https://brew.sh/ "brew installer page").  [Chocolatey.org](https://chocolatey.org/ "Chocolatey.org download page") is the Windows 3rd party package manager.  Place screenshot of the version command output for: ```choco --version``` or ```brew --version```
