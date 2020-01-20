@@ -52,6 +52,8 @@ Try to use 6.0.x until the two applications are compatible.  Here are the direct
 
 Version 6.x works with Vagrant 2.2.6
 
+![PowerShell/SSH](pics/VirtualBox.PNG "VirtualBox Version")
+
 ## Install Vagrant
 
 Using a package manager, install the latest version of [Vagrant](https://vagrantup.com "Vagrant download site").  If you have a version 2.2.x you will be ok.  Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.  Place a screenshot of the output of the command: ```vagrant --version```
