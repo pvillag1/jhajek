@@ -89,13 +89,15 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 * [Adobe Brackets](http://brackets.io/ "Adobe Brackets Install")
   * Cross Platform development tool from Adobe
 
- ![IDE editor](pics/IDEeditor.PNG "Atom")
+ ![IDE editor](pics/IDEeditor.PNG "IDE Editor")
 
 ## Git-It Tutorial
 
 Download, extract, and execute the Git-It tutorial, located: [https://github.com/jlord/git-it-electron/releases](https://github.com/jlord/git-it-electron/releases "Git-It release tutorial").  The program runs as an executable so there is no installation needed and is cross platform.  The program does require you to have completed and configured Git, which we did in a previous step.  
 
 Post a screenshot of your completion badge (or dots) after you finish the tutorial.
+
+![Git-it](pics/git-it.PNG "Git-it tutorial")
 
 ## Create and Push your Readme.md
 
