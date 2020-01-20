@@ -36,6 +36,8 @@ git config --global user.name "<Your Name>"
 git config --global user.email "<youremail@example.com>"
 ```
 
+![PowerShell/SSH](pics/InstallGit.PNG "Install Git")
+
 ## Install VirtualBox
 
 If you do not already have VirtualBox 6.x installed, use the package manager to install VirtualBox.  Take a screenshot of the VirtualBox > Help > About VirtualBox output.  If you have 6.0.x at the moment, no need to upgrade.
