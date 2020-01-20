@@ -97,7 +97,7 @@ Download, extract, and execute the Git-It tutorial, located: [https://github.com
 
 Post a screenshot of your completion badge (or dots) after you finish the tutorial.
 
-![Git-it](pics/git-it.PNG "Git-it tutorial")
+![Git-it](pics/git-it.PNG "git-it tutorial")
 
 ## Create and Push your Readme.md
 
